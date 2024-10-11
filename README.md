@@ -30,13 +30,9 @@ This project aims to create a more reliable and accountable charity ecosystem, h
 
 CharityDonationTracking/
 ├── contracts/
-
 │   └── CharityDonationTracking.sol
-
 ├── scripts/
-
 │   └── deploy.js
-
 ├── frontend/
 │   ├── src/
 │   │   ├── contracts/
@@ -97,3 +93,13 @@ CharityDonationTracking/
 7. *Open the Application*:
    Visit http://localhost:3000 in your web browser to interact with the DApp.
 
+## Usage
+
+- *Register a Receiver*: Receivers can register their details and required amounts.
+- *Make a Donation*: Donors can input the receiver's address and the amount they wish to donate.
+
+
+## Acknowledgments
+
+- Inspired by the need for transparency in charitable donations.
+- Special thanks to the Ethereum and React communities for their valuable resources.
