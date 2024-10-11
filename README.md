@@ -30,9 +30,13 @@ This project aims to create a more reliable and accountable charity ecosystem, h
 
 CharityDonationTracking/
 ├── contracts/
+
 │   └── CharityDonationTracking.sol
+
 ├── scripts/
+
 │   └── deploy.js
+
 ├── frontend/
 │   ├── src/
 │   │   ├── contracts/
